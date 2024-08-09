@@ -25,8 +25,5 @@ This is a new repository for Python for DevOps Lecture/Workshop
 
 
 
-![5-10-ecr-workflow](https://user-images.githubusercontent.com/58792/163280392-1de7f99a-221b-439b-b970-e84c67091ee4.png)
-
-
 
 
