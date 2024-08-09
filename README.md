@@ -29,4 +29,4 @@ This is a new repository for Python for DevOps Lecture/Workshop
 
 
 
-![app-runner](https://user-images.githubusercontent.com/58792/163263487-3e48e983-61dc-4054-b612-d2343e8b5224.png)
+
